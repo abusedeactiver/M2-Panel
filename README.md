@@ -13,8 +13,8 @@ This project is dedicated to developing a user panel for the [Cloudflare-workers
 - **Pages** deployment
 <br>
 
-🌟 If you found **BPB Panel** valuable, Your donations make all the difference 🌟
-- **USDT (BEP20):** `0x111EFF917E7cf4b0BfC99Edffd8F1AbC2b23d158`
+🌟 If you found **M2rayNG Panel** valuable, Your donations make all the difference 🌟
+- **USDT (BEP20):** `0x0b0F1042201A59781e86ECFd8457af961242EC2F`
 
 ## Features
 
@@ -56,7 +56,7 @@ This project is dedicated to developing a user panel for the [Cloudflare-workers
 | **Shadowrocket**  |   | :x: | :x: |
 | **Nekoray**  |   | :heavy_check_mark: | :x: |
 | **Hiddify**  | 2.0.5 or higher  | :x: | :heavy_check_mark: |
-| **NikaNG**  |   | :heavy_check_mark: | :heavy_check_mark: |
+| **M2rayNG**  |   | :heavy_check_mark: | :heavy_check_mark: |
 | **Clash Meta**  |   | :x: | :x: |
 | **Clash Verge Rev**  |   | :x: | :x: |
 | **FLClash**  |   | :x: | :x: |
